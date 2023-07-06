@@ -2,6 +2,10 @@ body{
 	background-color:#4b6584!important;
 }
 
+.container { 
+	background-color:#778ca3;
+}
+
 #profile-wrapper{
 	text-align: center;
 }
